@@ -1,6 +1,6 @@
 Bienvenidos 👋
 
-![Grupo DW2A](2W2A.png "Este es un grupo privado")
+![Grupo DW2A](https://raw.githubusercontent.com/DW2A/.github/main/profile/2W2A.png "Este es un grupo privado")
 
 ### IES Clara del Rey
 
